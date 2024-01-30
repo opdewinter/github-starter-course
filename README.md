@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-Olivier was here
+Olivier was here. Editing a file in VS code.
 
 ## 🤓 Course overview and learning outcomes 
 
